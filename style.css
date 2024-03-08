@@ -9,7 +9,7 @@ body{
     background-color:#000000;
 }
 .main{
-    background-image: url("./media/images/Netflix-Background.jpg");
+    background-image: url("./media/images/bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1000px ,100vw);
