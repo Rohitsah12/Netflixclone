@@ -55,13 +55,13 @@ nav button{
 }
 .hero> :first-child{
     font-weight: bolder;
-    font-size: 48px;
+    font-size: 38px;
 }
 .hero> :nth-child(2){
     font-weight: 700;
-    font-size: 35px;
+    font-size: 25px;
 }
 .hero> :nth-child(3){
   
-    font-size: 25px;
+    font-size: 15px;
 }
